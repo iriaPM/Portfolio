@@ -15,7 +15,7 @@ class HomeScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Hi, I\'m Iria',
+              'Hi, Iria here!',
               style: TextStyle(
                 color: kPrimaryColor,
                 fontSize: size.width * 0.1,
